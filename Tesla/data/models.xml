@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<models>
+   <car category="TESLA">
+      <name>Tesla Roadster</name>
+      <range unit="kilometre">394</range>
+      <body>saloon</body>
+      <year>2008</year>
+      <price currency="usd">109,000</price>
+   </car>
+   <car category="TESLA">
+      <name>Roadster MK2</name>
+      <range unit="kilometre">402</range>
+      <body>saloon</body>
+      <year>2010</year>
+      <price>84,000</price>
+   </car>
+   <car category="TESLA">
+      <name>Roadster Sport</name>
+      <range unit="kilometre">390</range>
+      <body>saloon</body>
+      <year>2009</year>
+      <price>124,000</price>
+   </car>
+   <car category="TESLA">
+      <name>model s</name>
+      <range unit="kilometre">398</range>
+      <body>saloon</body>
+      <year>2010</year>
+      <price>30,000</price>
+   </car>
+   <car category="TESLA">
+      <name>model s</name>
+      <range unit="kilometre" />
+      <body>sedan</body>
+      <year>2012</year>
+      <price>71,070</price>
+   </car>
+   <car category="TESLA">
+      <name>model s P85D</name>
+      <range unit="kilometre">285</range>
+      <body>sedan</body>
+      <year>2012</year>
+      <price>105,050</price>
+   </car>
+   <car category="TESLA">
+      <name>model x</name>
+      <engine />
+      <body>saloon</body>
+      <year>2010</year>
+      <price>30,000</price>
+   </car>
+   <car category="TESLA">
+      <name>model s 85</name>
+      <range unit="kilometre">265</range>
+      <body>sedan</body>
+      <year>2012</year>
+      <price>81,070</price>
+   </car>
+   <car category="TESLA">
+      <name>model x</name>
+      <range unit="kilometre">TBA</range>
+      <body>sport</body>
+      <year>2016</year>
+      <price>TBA</price>
+   </car>
+   <car category="TESLA">
+      <name>model x sport</name>
+      <range unit="kilometre">TBA</range>
+      <body>sport</body>
+      <year>2016</year>
+      <price>TBA</price>
+   </car>
+</models>
